@@ -30,16 +30,16 @@
 
 <h3 align="left">Artificial Intelligence & Machine Learning:</h3>
 
-  - **Computer Vision:**: CNN, Transfer learning, GAN. 
-  - **Machine Learning:**: Naive Bayes, Logistic Regression, SVM, Decision Trees, KNN.
-  - **Neural Network:**: LSTM, RNN, GRU.
+  - **Computer Vision:** CNN, Transfer learning, GAN. 
+  - **Machine Learning:** Naive Bayes, Logistic Regression, SVM, Decision Trees, KNN.
+  - **Neural Network:** LSTM, RNN, GRU.
 
 <h3 align="left">AI Automation & LLM Systems:</h3>
 
-  - **AI Automation:**: n8n, Zapier, Make (Integromat).
-  - **Large Language Models:**: Ollama, OpenAI, Gemini, Qwen, DeepSeek. 
-  - **NLP & Transformers:**: BERT, Self-Attention, Text Classification. 
-  - **Deployment & Integration:**: FastAPI, Model APIs, Workflow Automation.
+  - **AI Automation:** n8n, Zapier, Make (Integromat).
+  - **Large Language Models:** Ollama, OpenAI, Gemini, Qwen, DeepSeek. 
+  - **NLP & Transformers:** BERT, Self-Attention, Text Classification. 
+  - **Deployment & Integration:** FastAPI, Model APIs, Workflow Automation.
  
 # Research Papers
 
