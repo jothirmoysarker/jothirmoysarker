@@ -36,8 +36,8 @@
 
 <h3 align="left">AI Automation & LLM Systems:</h3>
 
-  - **Large Language Models:**: LLaMA 1, LLaMA 2, GPT, Gemini. 
-  - **AI Automation:**: n8n, Zapier, Google Sheets.
+  - **AI Automation:**: n8n, Zapier, Make (Integromat).
+  - **Large Language Models:**: Ollama, OpenAI, Gemini, Qwen, DeepSeek. 
   - **NLP & Transformers:**: BERT, Self-Attention, Text Classification. 
   - **Deployment & Integration:**: FastAPI, Model APIs, Workflow Automation.
  
