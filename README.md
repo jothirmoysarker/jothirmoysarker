@@ -6,7 +6,7 @@
 <!-- Profile Header (Name and Titles) -->
 <div style="margin-top: 80px; text-align: left; padding: 0 40px;">
   <h1 style="font-size: 24px; margin-bottom: 5px;">
-    Shadow Developer
+    Jothirmoy Sarker Shuvo
     <!-- Badge Icons (Only Icons, No Names) -->
     <a href="https://www.linkedin.com/in/jothirmoy-sarker">
       <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 5px;">
