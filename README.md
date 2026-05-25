@@ -7,7 +7,7 @@
 <div style="margin-top: 80px; text-align: left; padding: 0 40px;">
   <h1 style="font-size: 24px; margin-bottom: 5px;">
     Jothirmoy Sarker Shuvo
-    <!-- Badge Icons (Only Icons, No Names) -->
+    <!-- Badge Icons -->
     <a href="https://www.linkedin.com/in/jothirmoy-sarker">
       <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 5px;">
     </a>
@@ -18,12 +18,16 @@
       <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white" alt="Gmail Icon" style="vertical-align: middle; margin-left: 5px;">
     </a>
   </h1>
-  <p style="font-size: 16px; color: gray;">Undergraduate Student at American International University - Bangladesh (AIUB) | Majoring in Deep Learning AI | Passionate about exploring the realms of Artificial Intelligence, software development, and UI/UX design.I aspire to contribute to innovative projects that leverage AI for impactful solutions.</p>
+
+  <p style="font-size: 16px; color: gray;">
+    AI & Data Science undergraduate with published research in LLM hallucination reduction, cybersecurity topic modeling, and healthcare analytics using Machine Learning & Deep Learning. Currently working as an AI Automation Engineer at Softvence Delta, building end-to-end automation systems using n8n, Zapier, Make, OpenAI, Anthropic Claude, and Google Gemini APIs. Passionate about Large Language Models, AI workflow automation, NLP, and scalable intelligent systems that solve real-world business problems.
+  </p>
 </div>
 
-- Working on AI-based projects using **Deep Learning**.
-- Enhancing UI/UX designs for improved user experiences.
-- Exploring personal projects in software development.
+- Building AI automation systems using **n8n, Zapier, Make, OpenAI, Claude, and Gemini APIs**.
+- Researching **LLMs, NLP, hallucination reduction, and AI workflow optimization**.
+- Developing intelligent applications with **Python, SQL, Deep Learning, and Machine Learning**.
+- Delivering client-focused automation solutions and scalable AI integrations.
 
 
 # Skill 
