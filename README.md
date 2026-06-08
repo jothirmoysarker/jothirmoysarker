@@ -77,13 +77,12 @@
 <h3 align="left">AI Automation & LLM Systems:</h3>
 
 <div align="left">
-  <img src="image/n8n2.svg" alt="Claude" width="50">
-  <img src="image/zapier2.jpeg" alt="OpenAI" width="50" height="50">
-  <img src="image/make2.jpeg" alt="Ollama" width="50" height="50">
+  <img src="image/n8n3.png" alt="Claude" width="50">
+  <img src="image/zapier-icon3.svg" alt="OpenAI" width="50" height="50">
+  <img src="image/make3.png" alt="Ollama" width="50" height="50">
    <img src="image/claude2.svg" alt="Claude" width="50">
   <img src="image/Openai2.svg" alt="OpenAI" width="50" height="50">
   <img src="image/Ollama.png" alt="Ollama" width="50" height="50">
-  <img src="image/ByteDance.png" alt="ByteDance" width="50" >
 </div>
 
 ###
