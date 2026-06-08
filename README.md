@@ -60,7 +60,16 @@
 - Compared models using coherence and clustering metrics.
 
 
-# Summary
+# Languages, Frameworks & Tools
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=py,r,css,ts,docker,kali,dotnet,ubuntu,postgres,fastapi,supabase" />
+    <img src="https://skillicons.dev/icons?i=bash,gitlab,powershell,git,github,latex,vscode,linux,matlab,react,redis" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,java,js,mysql,nextjs,nodejs,npm,php" /><br>
+</div>
+
+<br/>
+
 <img align="right" alt="TypingGif" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="130" hspace="40" />
 
 ###
@@ -71,81 +80,11 @@
   <img src="image/n8n2.svg" alt="Claude" width="50">
   <img src="image/zapier2.jpeg" alt="OpenAI" width="50" height="50">
   <img src="image/make2.jpeg" alt="Ollama" width="50" height="50">
-</div>
-
-###
-
-<h3 align="left">Artificial Intelligence</h3>
-
-<div align="left">
-  <img src="image/claude2.svg" alt="Claude" width="50">
+   <img src="image/claude2.svg" alt="Claude" width="50">
   <img src="image/Openai2.svg" alt="OpenAI" width="50" height="50">
   <img src="image/Ollama.png" alt="Ollama" width="50" height="50">
   <img src="image/ByteDance.png" alt="ByteDance" width="50" >
 </div>
-
-
-###
-
-<h3 align="left">Programming Languages:</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
-
-###
-<h3 align="left">Web Development:</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-</div>
-
-###
-<h3 align="left">Tools:</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-</div>
-
-###
 
 ###
 
