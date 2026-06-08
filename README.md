@@ -77,12 +77,12 @@
 <h3 align="left">AI Automation & LLM Systems:</h3>
 
 <div align="left">
-  <img src="image/n8n3.png" alt="Claude" width="50">
-  <img src="image/zapier-icon3.svg" alt="OpenAI" width="50" height="50">
-  <img src="image/make3.png" alt="Ollama" width="50" height="50">
-   <img src="image/claude2.svg" alt="Claude" width="50">
-  <img src="image/Openai2.svg" alt="OpenAI" width="50" height="50">
-  <img src="image/Ollama.png" alt="Ollama" width="50" height="50">
+  <img src="image/n8n3.png" alt="n8n" width="50">
+  <img src="image/zapier-icon3.svg" alt="zapier" width="50" height="50">
+  <img src="image/make3.png" alt="make" width="50" height="50">
+   <img src="image/claude-ai-icon3.svg" alt="Claude" width="50">
+  <img src="image/chatgpt-icon3.svg" alt="OpenAI" width="50" height="50">
+  <img src="image/perplexity-ai-icon3.svg" alt="perplexity" width="50" height="50">
 </div>
 
 ###
